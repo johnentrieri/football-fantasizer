@@ -1,0 +1,160 @@
+[9/6/2022, 11:08:54 AM][MAIN]: Logger Initiated, Creating file:log.txt
+[9/6/2022, 11:08:54 AM][MAIN]: Current Time: Tue Sep 06 2022 11:08:54 GMT-0400 (Eastern Daylight Time)
+[9/6/2022, 11:08:54 AM][MAIN]: Last Login: Tue Sep 06 2022 11:07:36 GMT-0400 (Eastern Daylight Time)
+[9/6/2022, 11:13:28 AM][MAIN]: Current Time: Tue Sep 06 2022 11:13:28 GMT-0400 (Eastern Daylight Time)
+[9/6/2022, 11:13:28 AM][MAIN]: Last Login: Tue Sep 06 2022 11:07:36 GMT-0400 (Eastern Daylight Time)
+[9/6/2022, 11:13:28 AM][MAIN]: Sufficent Time Elapsed. Logging in at: Tue Sep 06 2022 11:13:28 GMT-0400 (Eastern Daylight Time)
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Optimizing Roster
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Initial Projection: 117.3
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for QB Replacement For: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-QB Player: Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-QB Player: Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-QB Player: James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-QB Player: Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-QB Player: Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-QB Player: Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for RB Replacement For: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Ezekiel Elliott with Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Cordarrelle Patterson is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Ezekiel Elliott with James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: James Robinson is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for RB Replacement For: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Travis Etienne Jr. with Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Cordarrelle Patterson is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Travis Etienne Jr. with James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: James Robinson is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for WR Replacement For: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-RB Player: Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-WR Player: Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Ja'Marr Chase with Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-WR Player: James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Ja'Marr Chase with Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Jakobi Meyers is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Marvin Jones Jr. is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Ja'Marr Chase with Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-WR Player: Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Odell Beckham Jr. is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for WR Replacement For: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-WR Player: Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Tyreek Hill with Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Jakobi Meyers is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-WR Player: James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Tyreek Hill with Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Marvin Jones Jr. is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-WR Player: Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Tyreek Hill with Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Odell Beckham Jr. is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for TE Replacement For: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-TE Player: Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-TE Player: Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-TE Player: James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-TE Player: Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing T.J. Hockenson with Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Noah Fant is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-TE Player: Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for FLEX Replacement For: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Amon-Ra St. Brown with Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Cordarrelle Patterson is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Amon-Ra St. Brown with Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Jakobi Meyers is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Amon-Ra St. Brown with James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: James Robinson is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Amon-Ra St. Brown with Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Marvin Jones Jr. is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Amon-Ra St. Brown with Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Noah Fant is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Odell Beckham Jr. is not a worthwhile replacement
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Comparing Amon-Ra St. Brown with Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Lamar Jackson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Looking for RB Replacement For: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ezekiel Elliott
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Travis Etienne Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Ja'Marr Chase
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Tyreek Hill
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: T.J. Hockenson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Amon-Ra St. Brown
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Steelers D/ST
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-K Player: Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Active Player: Chris Boswell
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-K Player: Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-K Player: James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-K Player: Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-K Player: Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Non-K Player: Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Benched Player: Cordarrelle Patterson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Benched Player: Jakobi Meyers
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Benched Player: Marvin Jones Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Benched Player: James Robinson
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Benched Player: Noah Fant
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Skipping Benched Player: Odell Beckham Jr.
+[9/6/2022, 11:13:35 AM][ROSTER OPTIMIZE]: Final Projection: 117.3

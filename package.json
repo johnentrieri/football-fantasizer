@@ -1,0 +1,14 @@
+{
+  "name": "football-fantasizer",
+  "version": "1.0.0",
+  "description": "Automated manager for Fantasy Football",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^17.0.0"
+  }
+}
